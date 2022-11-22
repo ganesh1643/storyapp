@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storyImages">
+<!--        <item>https://files.instapdf.in/wp-content/uploads/pdf-thumbnails/2021/04/small/rich-dad-poor-dad-436.webp</item>-->
+        <item>https://www.getlitt.co/blog/wp-content/uploads/2019/07/tenali_raman-2_1480501657.jpg</item>
+        <item>https://www.moralstories.org/wp-content/uploads/2017/07/pot-akabar-birbal-676x284.jpg.webp</item>
+        <item>https://nriol.com/images/foolish-lion.png</item>
+        <item>https://nriol.com/images/monkey-crocodile.png</item>
+        <item>https://nriol.com/images/sparrow-ele.png</item>
+        <item>https://nriol.com/images/heron-crab.jpg</item>
+        <item>https://nriol.com/images/lion-donkey-story.jpg</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS64auFWKozAviaYDAR3DtiJV2W4gLf_UaOtg&amp;usqp=CAU</item>
+        <item>https://i0.wp.com/www.moralstories.org/wp-content/uploads/2016/12/krishna-arjun-story.jpg?resize=300%2C127&amp;ssl=1</item>
+        <item>https://www.india-a2z.com/images/the-sages-daughter.png</item>
+        <item>https://s3.envato.com/files/315176721/Preview_img.jpg</item>
+        <item>https://nriol.com/images/catp.png</item>
+    </string-array>
+</resources>

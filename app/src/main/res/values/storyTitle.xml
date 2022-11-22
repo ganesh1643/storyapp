@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storyTitles">
+<!--        <item>Rich Dad Poor Dad</item>-->
+        <item>The Biggest Fool In The Kingdom!</item>
+        <item>The Pot of the Wit</item>
+        <item>The Foolish Lion and the clever Rabbit</item>
+        <item>The Monkey and the Crocodile</item>
+        <item>The Sparrow and the Elephant</item>
+        <item>The Heron and the Crab</item>
+        <item>The Lion and The Foolish Donkey</item>
+        <item>A Friend in Need...</item>
+        <item>The Day Dreaming Priest</item>
+        <item>The Sages daughter story</item>
+        <item>The Moon Lake</item>
+        <item>The Cat, Partridge and the Hare</item>
+    </string-array>
+</resources>
